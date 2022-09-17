@@ -1,0 +1,7 @@
+﻿  StudentSolver.cpp
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\Hopscotch\StudentSolver.cpp(17,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\Hopscotch\StudentSolver.cpp(20,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\Hopscotch\StudentSolver.cpp(26,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\Hopscotch\StudentSolver.cpp(60,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\Hopscotch\StudentSolver.cpp(60,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hopscotch.vcxproj -> C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 328\Hopscotch\x64\Debug\Hopscotch.exe
